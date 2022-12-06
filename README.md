@@ -1,1 +1,1 @@
-# WEBSITENAME-clone
+# Coursera-clone
